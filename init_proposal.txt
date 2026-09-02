@@ -1,0 +1,59 @@
+Research Scope — Brainstorm
+1. Research Premises
+Exact repeated endgame states are rare.
+Need to demonstrate that reaching exactly the same late-game hand configuration is a low-probability event.
+Team membership does not automatically reduce hidden-hand uncertainty.
+Apart from knowing their own hand, a player does not inherently know more about teammates’ remaining cards than opponents’ remaining cards; any additional knowledge must come from inference based on public play history.
+2. Fixed Rule Scope
+Use the no-tribute version of Da Guai Lu Zi throughout the main study.
+Keep one fixed rule set to avoid introducing extra information or material advantages across games.
+3. Core Research Question
+Compare different strategy families according to how effectively they reduce the coordination problems created by asymmetric information within a team.
+The aim is not simply to increase information sharing, but to improve team decision-making under incomplete information.
+4. Central Strategic Tension
+
+The key trade-off is:
+
+Reduce harmful information asymmetry within the team, while still exploiting the informational advantage created by each player’s private hand.
+
+In other words:
+
+too little coordination → teammates cannot infer each other’s intentions;
+too much signaling / predictability → the team may lose the advantage of private information.
+5. Information Leakage to Opponents
+Information-reducing strategies may also make the team’s intentions more visible to opponents.
+If a team’s intended route becomes too obvious, opponents may anticipate it and deliberately disrupt the sequence.
+Therefore, the study should consider both:
+coordination benefit within the team
+strategic information leakage to the opposing team
+6. Strategy Comparison
+
+Rather than searching for a universal “best strategy,” compare strategies on questions such as:
+
+Which strategy most effectively reduces the negative effect of information asymmetry?
+Under what conditions does increased coordination improve team outcomes?
+At what point does increased predictability begin to benefit the opponent?
+7. Control Variables
+
+Assume:
+
+all players are highly experienced;
+all understand the rules and strategic principles of Da Guai Lu Zi;
+no player is assigned a fixed play style, personal preference, or “school” of strategy.
+
+This allows differences in outcomes to be attributed more cleanly to the strategies being compared rather than player skill.
+
+8. Claim Boundary
+
+Avoid absolute language such as:
+
+“optimal strategy”
+“best strategy”
+“solves the game”
+
+Prefer:
+
+“performs better under specified conditions”
+“reduces coordination loss”
+“improves expected team outcome”
+“is more robust under the tested information structure”
